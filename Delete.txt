@@ -1,0 +1,8 @@
+ipcrm -M 67234
+ipcrm -M 54672
+ipcrm -M 59243
+ipcrm -S 83563
+ipcrm -Q 12345
+ipcrm -S 733589
+ipcrm -S 55423
+
